@@ -31,4 +31,9 @@ Built using React and Redux Toolkit, this app presents important stats like pric
 
 UI shows many cryptos with name, symbol, price, %change(1h/24/7d/3M/1Y), marketcap, volume, supply and chart.
 
+I have created the issue as sample output you all  can go and check the sample output.
+
+
 # Demo Video
+
+
