@@ -36,4 +36,13 @@ I have created the issue as sample output you all  can go and check the sample o
 
 # Demo Video
 
+For reference I have uploaded 3 demo videos
+  1. In this video you will get to know the chages.
+
+ 2. chart.js for real-time changing ,for graphs i have used .
+
+ 3. the final layout ,how it appears.
+
+ 
+
 
